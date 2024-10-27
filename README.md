@@ -3,7 +3,7 @@
 
 In this project, I developed a comprehensive analysis of school performance data using Pandas DataFrames to help guide strategic decisions for the local school district. Acting as the Chief Data Scientist, I focused on evaluating district-wide metrics related to student performance on standardized tests in math and reading.
 
-Project Objectives:
+### Project Objectives:
 
 District-Level Analysis: Provided a high-level overview of district metrics, including the number of schools, total budget, and average student performance. Calculated metrics such as average math and reading scores, and percentages of students meeting passing thresholds for each subject and overall.
 
