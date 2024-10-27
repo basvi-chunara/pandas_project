@@ -1,5 +1,5 @@
-#pandas_project
-Pandas-Based School Data Analysis Project
+# pandas_project
+## Pandas-Based School Data Analysis Project
 
 In this project, I developed a comprehensive analysis of school performance data using Pandas DataFrames to help guide strategic decisions for the local school district. Acting as the Chief Data Scientist, I focused on evaluating district-wide metrics related to student performance on standardized tests in math and reading.
 
